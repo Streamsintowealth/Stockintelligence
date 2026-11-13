@@ -1,0 +1,157 @@
+[
+  {
+    "ticker": "NVDA",
+    "title": "NVIDIA CORPORATION",
+    "cik": null
+  },
+  {
+    "ticker": "GOOGL",
+    "title": "ALPHABET INC.",
+    "cik": null
+  },
+  {
+    "ticker": "GOOG",
+    "title": "ALPHABET INC.",
+    "cik": null
+  },
+  {
+    "ticker": "AAPL",
+    "title": "APPLE INC.",
+    "cik": null
+  },
+  {
+    "ticker": "MSFT",
+    "title": "MICROSOFT CORP.",
+    "cik": null
+  },
+  {
+    "ticker": "AMZN",
+    "title": "AMAZON COM INC.",
+    "cik": null
+  },
+  {
+    "ticker": "META",
+    "title": "META PLATFORMS INC.",
+    "cik": null
+  },
+  {
+    "ticker": "TSLA",
+    "title": "TESLA INC.",
+    "cik": null
+  },
+  {
+    "ticker": "AVGO",
+    "title": "BROADCOM INC.",
+    "cik": null
+  },
+  {
+    "ticker": "CRWD",
+    "title": "CROWDSTRIKE HOLDINGS INC.",
+    "cik": null
+  },
+  {
+    "ticker": "NOW",
+    "title": "SERVICENOW INC.",
+    "cik": null
+  },
+  {
+    "ticker": "AMD",
+    "title": "ADVANCED MICRO DEVICES INC.",
+    "cik": null
+  },
+  {
+    "ticker": "JPM",
+    "title": "JPMORGAN CHASE & CO.",
+    "cik": null
+  },
+  {
+    "ticker": "GEV",
+    "title": "GE VERNOVA INC.",
+    "cik": null
+  },
+  {
+    "ticker": "GS",
+    "title": "GOLDMAN SACHS GROUP INC.",
+    "cik": null
+  },
+  {
+    "ticker": "CAT",
+    "title": "CATERPILLAR INC.",
+    "cik": null
+  },
+  {
+    "ticker": "MU",
+    "title": "MICRON TECHNOLOGY INC.",
+    "cik": null
+  },
+  {
+    "ticker": "WMT",
+    "title": "WALMART INC.",
+    "cik": null
+  },
+  {
+    "ticker": "COST",
+    "title": "COSTCO WHOLESALE CORP.",
+    "cik": null
+  },
+  {
+    "ticker": "V",
+    "title": "VISA INC.",
+    "cik": null
+  },
+  {
+    "ticker": "MA",
+    "title": "MASTERCARD INC.",
+    "cik": null
+  },
+  {
+    "ticker": "DIS",
+    "title": "WALT DISNEY CO.",
+    "cik": null
+  },
+  {
+    "ticker": "NFLX",
+    "title": "NETFLIX INC.",
+    "cik": null
+  },
+  {
+    "ticker": "KO",
+    "title": "COCA-COLA CO.",
+    "cik": null
+  },
+  {
+    "ticker": "PEP",
+    "title": "PEPSICO INC.",
+    "cik": null
+  },
+  {
+    "ticker": "UNH",
+    "title": "UNITEDHEALTH GROUP INC.",
+    "cik": null
+  },
+  {
+    "ticker": "XOM",
+    "title": "EXXON MOBIL CORP.",
+    "cik": null
+  },
+  {
+    "ticker": "PLTR",
+    "title": "PALANTIR TECHNOLOGIES INC.",
+    "cik": null
+  },
+  {
+    "ticker": "QQQ",
+    "title": "INVESCO QQQ TRUST",
+    "cik": null
+  },
+  {
+    "ticker": "VOO",
+    "title": "VANGUARD S&P 500 ETF",
+    "cik": null
+  },
+  {
+    "ticker": "SPY",
+    "title": "SPDR S&P 500 ETF TRUST",
+    "cik": null
+  }
+]
